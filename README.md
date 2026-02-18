@@ -2,7 +2,9 @@
 
 OmniSelect is a core tool in the **Omni Games Ecosystem**, designed for building curated, device-optimized ROM collections.
 
-It allows users to construct personalized ROM sets tailored to their storage devices and workflows. User selections are stored in a **user database**, while the `OMNI_DAT` database automatically tracks and updates the metadata for each ROM entry. Once finalized, collections can be **viewed publicly by other users** and **downloaded as `.dat` files**, allowing sharing and integration with other tools.
+It allows users to construct personalized ROM sets tailored to their storage devices and workflows. User selections are stored in a **user database**, while the `OMNI_DAT` database automatically tracks and updates metadata for each ROM entry. Once finalized, collections can be **viewed publicly by other users** and **downloaded as `.dat` files**, enabling sharing and integration with other tools.
+
+OmniSelect runs entirely online — there is no need to install Python or any additional software, and users do not need to manage versions or updates. This makes it accessible and easy to use for anyone.
 
 ---
 
@@ -11,14 +13,13 @@ It allows users to construct personalized ROM sets tailored to their storage dev
 OmniSelect provides:
 
 - **Personalized Collection Building** – Select specific games, regions, and versions to create clean, optimized sets.  
-- **User Database Storage** – Selections are saved in a dedicated user database for editing, review, and ongoing management.  
-- **Automatic Metadata Updates** – The `OMNI_DAT` database ensures that metadata for every ROM entry remains current and accurate.  
+- **User Database Storage** – Selections are saved securely for ongoing editing and management.  
+- **Automatic Metadata Updates** – The `OMNI_DAT` database ensures metadata for every ROM entry remains current and accurate.  
 - **Public Collections** – Finalized collections can be viewed by other users.  
 - **`.dat` File Export** – Public collections can be downloaded as `.dat` files for integration with other tools or devices.  
 - **Device Optimization** – Adjust collection size to match storage constraints of your target device.  
 - **Integration with Omni Ecosystem** – Works seamlessly with Omni1, OmniScope, and OmniBridge for a complete ROM management workflow.  
-
-OmniSelect is designed for collectors, preservationists, and anyone managing ROM libraries efficiently.
+- **No Installation or Version Maintenance** – Everything runs online, with automatic updates and full browser-based functionality.
 
 ---
 
@@ -32,26 +33,16 @@ OmniSelect is designed for collectors, preservationists, and anyone managing ROM
 - Publicly viewable collections  
 - Download collections as `.dat` files  
 - Flexible filtering by region, version, or metadata  
+- Fully online — no installation or version management required  
 
----
-## No Installation or Version Management Required
-
-OmniSelect is a fully online tool:
-
-- No Python or software installations required  
-- No need to track or maintain a specific version  
-- Collections are always compatible with the current system  
-- All updates happen automatically in the background  
-
-Users can focus entirely on building and sharing ROM collections without technical overhead.
 ---
 
 ## How It Works
 
 1. **Select Games** – Choose games, regions, or versions to include in your collection.  
-2. **Save to User Database** – Selections are securely stored for ongoing editing.  
+2. **Save to User Database** – Selections are securely stored for ongoing editing and management.  
 3. **Metadata Updates** – The `OMNI_DAT` database automatically keeps ROM metadata accurate.  
-4. **Finalize Collection** – Complete the collection to make it publicly viewable.  
+4. **Finalize Collection** – Complete your collection to make it publicly viewable.  
 5. **View & Download** – Other users can browse public collections and download them as `.dat` files for use with compatible tools.  
 
 ---
@@ -59,9 +50,9 @@ Users can focus entirely on building and sharing ROM collections without technic
 ## Getting Started
 
 OmniSelect is available online at:  
-[OmniSelect Tool](https://omni-games.info/omniselect_step1.php)  
+[OmniSelect Tool](https://omni-games.info/)  
 
-For detailed instructions, visit the Omni Games website or explore the **Omni Ecosystem Community** for guides and discussions:  
+For detailed instructions, visit the Omni Games website or explore the **Omni Ecosystem Community** for guides, discussions, and support:  
 [Omni Ecosystem Community](https://github.com/omni-games-info/omni-ecosystem-community)
 
 ---
