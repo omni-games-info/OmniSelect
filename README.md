@@ -72,7 +72,6 @@ OmniSelect is part of the larger Omni Games suite:
 
 - **Omni1** – Generate high-precision, clean 1G1R ROM sets  
 - **OmniScope** – Deep metadata analysis and filtering  
-- **OmniBridge** – Organize, manage, and download ROM assets  
 
 ---
 
