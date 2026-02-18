@@ -34,6 +34,17 @@ OmniSelect is designed for collectors, preservationists, and anyone managing ROM
 - Flexible filtering by region, version, or metadata  
 
 ---
+## No Installation or Version Management Required
+
+OmniSelect is a fully online tool:
+
+- No Python or software installations required  
+- No need to track or maintain a specific version  
+- Collections are always compatible with the current system  
+- All updates happen automatically in the background  
+
+Users can focus entirely on building and sharing ROM collections without technical overhead.
+---
 
 ## How It Works
 
