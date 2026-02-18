@@ -2,7 +2,7 @@
 
 OmniSelect is a core tool in the **Omni Games Ecosystem**, designed for building curated, device-optimized ROM collections.
 
-It allows users to construct personalized ROM sets tailored to their storage devices and workflows. User selections are stored in a **user database**, while the `OMNI_DAT` database is used to automatically track and update the metadata of each ROM entry. Once finalized, collections can be exported as `.dat` files for use with compatible tools and systems.
+It allows users to construct personalized ROM sets tailored to their storage devices and workflows. User selections are stored in a **user database**, while the `OMNI_DAT` database automatically tracks and updates the metadata for each ROM entry. Once finalized, collections can be **viewed publicly by other users** and **downloaded as `.dat` files**, allowing sharing and integration with other tools.
 
 ---
 
@@ -11,9 +11,10 @@ It allows users to construct personalized ROM sets tailored to their storage dev
 OmniSelect provides:
 
 - **Personalized Collection Building** – Select specific games, regions, and versions to create clean, optimized sets.  
-- **User Database Storage** – Your selections are saved in a dedicated user database for editing, review, and ongoing management.  
-- **Automatic Metadata Updates** – The `OMNI_DAT` database ensures that metadata for every ROM entry is kept current and accurate.  
-- **Export as `.dat` Files** – Once your collection is complete, OmniSelect generates a `.dat` file for integration with other tools or devices.  
+- **User Database Storage** – Selections are saved in a dedicated user database for editing, review, and ongoing management.  
+- **Automatic Metadata Updates** – The `OMNI_DAT` database ensures that metadata for every ROM entry remains current and accurate.  
+- **Public Collections** – Finalized collections can be viewed by other users.  
+- **`.dat` File Export** – Public collections can be downloaded as `.dat` files for integration with other tools or devices.  
 - **Device Optimization** – Adjust collection size to match storage constraints of your target device.  
 - **Integration with Omni Ecosystem** – Works seamlessly with Omni1, OmniScope, and OmniBridge for a complete ROM management workflow.  
 
@@ -28,7 +29,8 @@ OmniSelect is designed for collectors, preservationists, and anyone managing ROM
 - Target storage optimization  
 - Customizable selection rules  
 - Compatibility checks with other Omni tools  
-- Export collections as `.dat` files  
+- Publicly viewable collections  
+- Download collections as `.dat` files  
 - Flexible filtering by region, version, or metadata  
 
 ---
@@ -36,9 +38,10 @@ OmniSelect is designed for collectors, preservationists, and anyone managing ROM
 ## How It Works
 
 1. **Select Games** – Choose games, regions, or versions to include in your collection.  
-2. **Save to User Database** – Selections are stored securely for future editing.  
+2. **Save to User Database** – Selections are securely stored for ongoing editing.  
 3. **Metadata Updates** – The `OMNI_DAT` database automatically keeps ROM metadata accurate.  
-4. **Export `.dat` File** – Generate a `.dat` file compatible with other ROM management tools and devices.  
+4. **Finalize Collection** – Complete the collection to make it publicly viewable.  
+5. **View & Download** – Other users can browse public collections and download them as `.dat` files for use with compatible tools.  
 
 ---
 
