@@ -48,7 +48,7 @@ OmniSelect is designed for collectors, preservationists, and anyone managing ROM
 ## Getting Started
 
 OmniSelect is available online at:  
-[OmniSelect Tool](https://omni-games.info/)  
+[OmniSelect Tool]([https://omni-games.info/](https://omni-games.info/omniselect_step1.php)  
 
 For detailed instructions, visit the Omni Games website or explore the **Omni Ecosystem Community** for guides and discussions:  
 [Omni Ecosystem Community](https://github.com/omni-games-info/omni-ecosystem-community)
